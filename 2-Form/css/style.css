@@ -4,6 +4,7 @@ body {
 
 h1, h3 {
     color: #333333;
+    font-size: 18px;
 }
 
 span {
@@ -25,4 +26,5 @@ input {
 button {
     background-color: #089FE0;
     color: #FFFFFF;
+    font-size: 16px;
 }
