@@ -8,15 +8,18 @@ h1, h3 {
 
 span {
     color: #666666;
+    font-size: 16px;
 }
 
 a {
     color: #089FE0;
+    font-size: 16px;
 }
 
 input {
     color: #999999;
     background-color: #F5F5F5;
+    font-size: 16px;
 }
 
 button {
