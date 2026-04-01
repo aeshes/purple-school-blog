@@ -1,0 +1,25 @@
+body {
+    background-color: #FFFEFE;
+}
+
+h1, h3 {
+    color: #333333;
+}
+
+span {
+    color: #666666;
+}
+
+a {
+    color: #089FE0;
+}
+
+input {
+    color: #999999;
+    background-color: #F5F5F5;
+}
+
+button {
+    background-color: #089FE0;
+    color: #FFFFFF;
+}
