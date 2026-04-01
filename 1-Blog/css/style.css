@@ -1,0 +1,41 @@
+body {
+    background-color: #374151;
+}
+
+header a {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 100%;
+}
+
+header > h1 {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 38px;
+}
+
+.first-p {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: 0%;
+}
+
+.other-p {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: 0%;
+}
+
+footer {
+    color: #FFFFFF;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0%;
+}
