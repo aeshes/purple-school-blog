@@ -60,3 +60,7 @@ nav {
     margin: 16px;
     padding: 16px 8px;
 }
+
+header > input {
+    border-radius: 100px;
+}
